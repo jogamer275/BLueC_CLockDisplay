@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLueC_CLockDisplay", "BLueC_CLockDisplay\BLueC_CLockDisplay.csproj", "{B8C60B64-480D-48C9-8267-D955434C90A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8C60B64-480D-48C9-8267-D955434C90A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C60B64-480D-48C9-8267-D955434C90A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C60B64-480D-48C9-8267-D955434C90A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C60B64-480D-48C9-8267-D955434C90A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95729560-3CB8-4E09-919B-C39AB3976A48}
+	EndGlobalSection
+EndGlobal
