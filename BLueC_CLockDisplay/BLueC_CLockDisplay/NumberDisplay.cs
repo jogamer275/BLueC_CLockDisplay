@@ -11,7 +11,7 @@ namespace ClockDisplay
 
         private IUpdateAble nextNumberDisplay;
 
-        public NumberDisplay( int modules, IUpdateAble nextNumberDisplay )
+        public NumberDisplay(int modules, IUpdateAble nextNumberDisplay )
         {
             this.modules = modules;
 
